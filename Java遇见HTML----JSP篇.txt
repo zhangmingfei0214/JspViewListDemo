@@ -1,0 +1,5 @@
+采用Model1(JSP+Javabean)实现
+1、实现DBHelper
+2、创建实体类
+3、创建业务逻辑类（Dao）
+4、编写页面层
